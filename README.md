@@ -14,17 +14,27 @@
 Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2017 ~ FEB  2024</em>
 </p>   
 <br>
+<div align="center">
 <p align="center">
-<Strong>:fire:Activity:fire:</Strong><br><br>
-SK shieldus &nbsp; — &nbsp;<em>SEP 2022 ~ DEC 2022</em><br>
-Rising camp &nbsp; — &nbsp;<em>SEP 2022 ~ FEB 2023</em>
+<Strong>:fire:Activity:fire:</Strong><br>
+    
+|Activity|Date|
+|:---:|:---:|
+|SK shieldus|SEP 2022 ~ DEC 2022|
+|Rising camp|SEP 2022 ~ FEB 2023|
+    
 </p>
 <br>
-<p align="center">
-<Strong>:trophy:Award:trophy:</Strong><br><br>
-충북대학교 창업 엑셀레이션 &nbsp; —  &nbsp; <em>우수상 &nbsp;   (September  2022) </em>
-</p>   
 
+<p align="center">
+<Strong>:trophy:Award:trophy:</Strong><br>
+
+|Award|Prize|Date|
+|:---:|:---:|:---:|
+|충북대학교 창업 엑셀레이션(식습관 분석 서비스)|우수상|2022.09|
+
+</p>   
+</div>
 <br>
 
 <br>
