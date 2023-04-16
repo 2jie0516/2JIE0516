@@ -1,5 +1,5 @@
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20To%20My%20Github!%20&height=150&fontSize=60&AlignY=75&descAlign=60) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=10&height=300&section=header&text=Thanks%20For%20Visiting&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=10,1,10&height=300&section=header&text=Thanks%20For%20Visiting&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
 <br>
 
 <p align="center">
@@ -11,7 +11,18 @@
 <br>
 <p align="center">
 <Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2017 - FEB  2024</em>
+Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2017 ~ FEB  2024</em>
+</p>   
+<br>
+<p align="center">
+<Strong>:fire:Activity:fire:</Strong><br><br>
+SK shieldus &nbsp; — &nbsp;<em>SEP 2022 ~ DEC 2022</em><br>
+Rising camp &nbsp; — &nbsp;<em>SEP 2022 ~ FEB 2023</em>
+</p>
+<br>
+<p align="center">
+<Strong>:trophy:Award:trophy:</Strong><br><br>
+충북대학교 창업 엑셀레이션 &nbsp; —  &nbsp; <em>우수상 &nbsp;   (September  2022) </em>
 </p>   
 
 <br>
