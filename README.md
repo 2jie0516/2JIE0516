@@ -56,6 +56,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 <p align="center" display="inline-block">
     💡Tools <br>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </p>
 <p align="center" display="inline-block">
