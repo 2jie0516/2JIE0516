@@ -31,7 +31,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Award|Prize|Date|
 |:---:|:---:|:---:|
-|충북대학교 창업 엑셀레이션(식습관 분석 서비스)|우수상|2022.09|
+|충북대학교 창업 엑셀레이션 (식습관 분석 서비스)|우수상|2022.09|
 
 </p>   
 
@@ -42,7 +42,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
-|OPIC|Intermediate High(IH)|2022.09|
+|OPIC|Intermediate High (IH)|2022.09|
 
 </p>        
     
