@@ -34,7 +34,18 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |충북대학교 창업 엑셀레이션(식습관 분석 서비스)|우수상|2022.09|
 
 </p>   
-</div>
+
+<br>
+
+<p align="center">
+<Strong>🇺🇸Language Skills🇺🇸</Strong><br>
+
+|Certificate|Grade|Date|
+|:---:|:---:|:---:|
+|OPIC|Intermediate High(IH)|2022.09|
+
+</p>        
+    
 <br>
 
 <br>
