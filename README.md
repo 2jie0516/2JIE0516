@@ -20,9 +20,9 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     
 |Activity|Role|Date|
 |:---:|:---:|:---:|
-|SK shieldus|FAB Risk 분석 (인턴)|SEP 2022 ~ DEC 2022|
-|Rising camp|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
-    
+|SK 쉴더스|FAB Risk 분석 (인턴)|SEP 2022 ~ DEC 2022|
+|라이징 캠프|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
+|프로그래머스 데브코스|백엔드 과정|JUNE 2023 ~ DEC 2023|    
 </p>
 <br>
 
