@@ -43,6 +43,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
 |OPIC|Intermediate High (IH)|2022.09|
+|TOEIC|850|2020.09|
 
 </p>        
     
