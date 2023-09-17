@@ -20,11 +20,12 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     
 |Activity|Role|Date|
 |:---:|:---:|:---:|
+|Broadband Network Lab|학부 연구생|APR 2022 ~ AUG 2022|
 |SK 쉴더스|FAB Risk 분석 (인턴)|SEP 2022 ~ DEC 2022|
 |라이징 캠프|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
 |프로그래머스 데브코스|백엔드 과정|JUNE 2023 ~ DEC 2023|
 |교과목 튜터링|데이터 통신 설계 (튜터)|MAR 2023 ~ JUNE 2023|
-|CORE|소프트웨어 프로젝트 동아리 (임베디드 팀)|SEP 2023 ~ ING|
+|코어|소프트웨어 프로젝트 동아리 (임베디드 팀)|SEP 2023 ~ ING|
 </p>
 <br>
 
