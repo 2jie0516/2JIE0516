@@ -1,7 +1,3 @@
-<!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20To%20My%20Github!%20&height=150&fontSize=60&AlignY=75&descAlign=60) -->
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=10,1,10&height=300&section=header&text=Thanks%20For%20Visiting&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
-<br>
-
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
     <a href="https://cb036133.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
