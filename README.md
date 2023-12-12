@@ -31,6 +31,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |Award|Prize|Date|
 |:---:|:---:|:---:|
 |충북대학교 창업 엑셀레이션 (식습관 분석 서비스)|우수상|2022.09|
+|프로그래머스 데브코스 프로젝트 (계획 리마인더 서비스)|우수상|2023.12|
 
 </p>   
 
