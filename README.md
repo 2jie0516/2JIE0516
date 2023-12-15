@@ -12,7 +12,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 <br>
 <div align="center">
 <p align="center">
-<Strong>:fire:Activity:fire:</Strong><br>
+<Strong>🔥Activity🔥</Strong><br>
     
 |Activity|Role|Date|
 |:---:|:---:|:---:|
@@ -26,7 +26,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 <br>
 
 <p align="center">
-<Strong>:trophy:Award:trophy:</Strong><br>
+<Strong>🏆Award🏆</Strong><br>
 
 |Award|Prize|Date|
 |:---:|:---:|:---:|
