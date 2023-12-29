@@ -20,8 +20,8 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |SK 쉴더스|FAB Risk 분석 (인턴)|SEP 2022 ~ DEC 2022|
 |라이징 캠프|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
 |교과목 튜터링|데이터 통신 설계 (튜터)|MAR 2023 ~ JUNE 2023|
-|프로그래머스 데브코스|백엔드 과정|JUNE 2023 ~ DEC 2023|
-|계획 리마인드 서비스 (올해도 아좌좌)|백엔드 개발|OCT 2023 ~ ing|
+|프로그래머스 데브코스|백엔드 과정 수료|JUNE 2023 ~ DEC 2023|
+|계획 리마인드 서비스 (올해도 아좌좌)|백엔드 개발 담당|OCT 2023 ~ ing|
 </p>
 <br>
 
