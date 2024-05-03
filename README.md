@@ -38,12 +38,12 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 <br>
 
 <p align="center">
-<Strong>🇺🇸Language Skills🇺🇸</Strong><br>
+<Strong>📋Certificate📋</Strong><br>
 
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
 |OPIC|Intermediate High (IH)|2022.09|
-|TOEIC|850|2020.09|
+|AWS Certified Solutions Architect|Associate|2024.05|
 
 </p>        
     
