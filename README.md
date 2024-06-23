@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Nihao👋)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Ni%20Hao👋)
 <br>
 
 <p align="center">
