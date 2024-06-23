@@ -21,6 +21,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |라이징 캠프|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
 |프로그래머스 데브코스|백엔드 과정 수료|JUNE 2023 ~ DEC 2023|
 |계획 리마인드 서비스 (올해도 아좌좌)|백엔드 개발 담당|OCT 2023 ~ ing|
+|미래자동차 마이크로디그리 트랙|자율주행 V2X 통신시스템 과정 수료|JAN 2024|
 </p>
 <br>
 
