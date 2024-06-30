@@ -95,3 +95,5 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2jie0516)](https://solved.ac/2jie0516/)
     
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&section=footer)
