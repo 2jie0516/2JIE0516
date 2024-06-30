@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Ni%20Hao%20👋%20My%20Github)
+![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&text=🧑‍💻)
 <br>
 
 <p align="center">
